@@ -1,0 +1,90 @@
+.top-logo img{
+    width: 300px;
+}
+.banner-img img{
+    width:35em;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+}
+h5{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
+.orange-color{
+    color:tomato;
+}
+.nav-padding li{
+    padding-left: 80px;
+    font-size: 20px;
+}
+.button-style{
+    color:white;
+    background-color: rgb(38, 0, 143);
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+}
+.button-style img{
+    width: 20px;
+}
+.banner-bg{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+}
+.casual-bg{
+    border: 0;
+    padding: 10px;
+}
+.casual-bg img{
+    background-color: rgba(105, 105, 105, 0.13);
+    padding: 10px;
+    border-radius: 15px;
+
+}
+.card-button{
+    color:white;
+    background-color: rgb(38, 0, 143);
+    padding: 7px 20px;
+    border: 0;
+    border-radius: 10px;
+}
+.card-button img{
+    width: 40px;
+}
+.c-footer{
+    border: 0;
+    background-color: white;
+}
+.image-height img{
+    height: 370px;
+}
+.toli-img img{
+    width: 400px;
+}
+.service-icon img{
+    width: 30px;
+    height: 60px;
+}
+.form-bg{
+    background-color: blanchedalmond ;
+    border-radius: 15px;
+    height: 470px;
+}
+.bottom-section{
+    background-color: antiquewhite;
+}
+footer{
+    text-align: center;
+}
